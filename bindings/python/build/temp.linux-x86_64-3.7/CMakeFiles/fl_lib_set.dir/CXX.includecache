@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../../flashlight/lib/set/Hungarian.h
+
+/opt/wav2vec/flashlight/flashlight/lib/set/Hungarian.cpp
+flashlight/lib/set/Hungarian.h
+/opt/wav2vec/flashlight/flashlight/lib/set/flashlight/lib/set/Hungarian.h
+assert.h
+-
+limits
+-
+vector
+-
+

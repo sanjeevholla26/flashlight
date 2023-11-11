@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CMakeFiles/CUB"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CMakeFiles/CUB.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CMakeFiles/CUB-complete.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-install.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-mkdir.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-download.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-update.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-patch.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-configure.rule"
+		},
+		{
+			"file" : "/opt/wav2vec/flashlight/bindings/python/build/temp.linux-x86_64-3.7/CUB/src/CUB-stamp/CUB-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"CUB"
+		],
+		"name" : "CUB"
+	}
+}
